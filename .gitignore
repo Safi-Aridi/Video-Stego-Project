@@ -205,3 +205,31 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ==========================================
+
+# MATLAB specific (Member B)
+*.asv
+*.mex*
+*.mat
+*.slxc
+*.simulink
+/02_DCT_Implementation/html/
+/02_DCT_Implementation/codegen/
+
+# C++ / MSVC (If Member A uses C++ for LSB)
+*.exe
+*.obj
+*.out
+*.app
+
+# Large Video Data (Prevent accidental non-LFS uploads)
+# We want to keep the small samples, but ignore massive raw outputs
+# that aren't tracked by Git LFS
+/01_LSB_Implementation/large_temp_files/
+/04_Comparison_and_Evaluation/raw_benchmarks/
+
+# OS specific
+.DS_Store
+Thumbs.db
