@@ -8,11 +8,6 @@
 
 A comparative study and implementation of Video Steganography techniques (LSB, DCT, and Deep Learning) for secure data hiding in .avi and .mp4 formats.
 
-# 🎥 Video Steganography: A Comparative Study
-![Status](https://img.shields.io/badge/Status-Infrastructure--Ready-brightgreen)
-![Team](https://img.shields.io/badge/Team-4--Members-blue)
-![Security](https://img.shields.io/badge/Focus-LSB%20|%20DCT%20|%20Deep--Learning-orange)
-
 ## 🛠️ Team Setup & Git Workflow (READ THIS FIRST)
 Every team member must follow these steps to avoid breaking the repository or losing data.
 
