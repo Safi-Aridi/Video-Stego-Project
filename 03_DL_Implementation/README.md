@@ -1,10 +1,10 @@
 # Steganography Using Deep Learning
 # High-Assurance Video Steganography via Adversarial U-Nets
 
-================================================================================
+
 **PROJECT:** High-Assurance Video Steganography via Adversarial U-Nets  
 **AUTHOR:** Safi Aridi  
-================================================================================
+
 
 ## 1. SYSTEM OVERVIEW
 This repository contains a demonstration of a high-capacity, deep learning-based steganography pipeline. A **144,128-bit** encrypted ZIP archive has been spatially embedded into an **H.264 widescreen video** carrier. 
