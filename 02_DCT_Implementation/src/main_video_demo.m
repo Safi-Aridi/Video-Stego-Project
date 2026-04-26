@@ -5,7 +5,7 @@ close all;
 inputVideoPath = '../data/input/cover_video.mp4';
 outputVideoPath = '../data/output/stego_video.avi';
 
-secretMessage = 'Frequency-domain embedding improves robustness over simple spatial methods.';
+secretMessage = 'Frequency-domain embedding improves robustness over simple spatial methods. ';
 
 % Embed
 embed_dct_video(inputVideoPath, outputVideoPath, secretMessage);
