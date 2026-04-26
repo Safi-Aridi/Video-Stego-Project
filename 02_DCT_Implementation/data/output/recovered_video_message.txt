@@ -1,0 +1,1 @@
+Frequency-domain embedding improves robustness over simple spatial methods.
